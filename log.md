@@ -5,3 +5,9 @@
 **Today's Progress**: Finished the "comments" button on the Twimba twitter clone on Scrimba on the Essential Javascript concepts module.
 
 **Thoughts:** Still struggling with using forEach() to loop through arrays (trying to separate them from for loops that I've done before).
+
+### Day : June 18, 2023
+
+**Today's Progress**: Added the ability to "tweet" in Twimba, using unshift to add an object to the beginning of an array.
+
+**Thoughts:** Going to work on adding the ability to comment on a tweet tomorrow to tweak the project a bit.
