@@ -6,7 +6,7 @@
 
 **Thoughts:** Still struggling with using forEach() to loop through arrays (trying to separate them from for loops that I've done before).
 
-### Day : June 18, 2023
+### Day 2: June 18, 2023
 
 **Today's Progress**: Added the ability to "tweet" in Twimba, using unshift to add an object to the beginning of an array.
 
