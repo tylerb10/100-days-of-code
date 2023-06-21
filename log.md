@@ -6,14 +6,23 @@
 
 **Thoughts:** Still struggling with using forEach() to loop through arrays (trying to separate them from for loops that I've done before).
 
+
 ### Day 2: June 18, 2023
 
 **Today's Progress**: Added the ability to "tweet" in Twimba, using unshift to add an object to the beginning of an array.
 
 **Thoughts:** Going to work on adding the ability to comment on a tweet tomorrow to tweak the project a bit.
 
+
 ### Day 3: June 19, 2023
 
 **Today's Progress**: Started working on a modal popup, hopefully opening when clicking the comment button. 
 
 **Thoughts:** Started with thinking of using a prompt or alert for this function, but wanted to control more of the appearance with CSS. 
+
+
+### Day 4: June 20, 2023
+
+**Today's Progress**: Worked up a modal using a div and display properties forcing it to not display, then found out about the dialog element. 
+
+**Thoughts:** Nothing today. 
