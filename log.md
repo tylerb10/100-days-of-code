@@ -26,3 +26,8 @@
 **Today's Progress**: Worked up a modal using a div and display properties forcing it to not display, then found out about the dialog element. 
 
 **Thoughts:** Nothing today. 
+
+
+### Day 5: June 21, 2023
+
+**Today's Progress**: Still working on my modal for the Twitter clone. I have it popping up on the correct button push, and can close it. I want it to also close when clicking outside of the modal, and I cannot figure out how to center it vertically on the page when it pops up. A problem for tomorrow!
