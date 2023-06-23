@@ -31,3 +31,8 @@
 ### Day 5: June 21, 2023
 
 **Today's Progress**: Still working on my modal for the Twitter clone. I have it popping up on the correct button push, and can close it. I want it to also close when clicking outside of the modal, and I cannot figure out how to center it vertically on the page when it pops up. A problem for tomorrow!
+
+
+### Day 6: June 22, 2023
+
+**Today's Progress**: Used some CSS positioning to center my modal on the screen, and made sure that closing it would also reset the text area. Plan for tomorrow is to get that reply to actually show up at the top the the reply feed!
