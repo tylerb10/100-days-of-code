@@ -36,3 +36,8 @@
 ### Day 6: June 22, 2023
 
 **Today's Progress**: Used some CSS positioning to center my modal on the screen, and made sure that closing it would also reset the text area. Plan for tomorrow is to get that reply to actually show up at the top the the reply feed!
+
+
+### Day 7: June 23, 2023
+
+**Today's Progress**: Not a lot of progress today, just doing a lot of research on different methods to render a reply. Also trying to decide on the layout for the reply button.
