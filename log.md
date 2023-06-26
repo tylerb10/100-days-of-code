@@ -43,6 +43,6 @@
 **Today's Progress**: Not a lot of progress today, just doing a lot of research on different methods to render a reply. Also trying to decide on the layout for the reply button.
 
 
-### Day 8: June 24, 2023
+### Day 8: June 25, 2023
 
 **Today's Progress**: I think I have the function written out correctly, and added a button for replying to a tweet. Still struggling to get the "Tweet Reply" button to actually render a reply at the top of the feed. 
