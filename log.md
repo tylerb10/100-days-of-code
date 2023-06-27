@@ -46,3 +46,8 @@
 ### Day 8: June 25, 2023
 
 **Today's Progress**: I think I have the function written out correctly, and added a button for replying to a tweet. Still struggling to get the "Tweet Reply" button to actually render a reply at the top of the feed. 
+
+
+### Day 9: June 26, 2023
+
+**Today's Progress**: Currently getting some help from the Scrimba discord on why half of my function is not behaving the way I intended. Doing a lot of code refactoring, but I really want this feature to work!
