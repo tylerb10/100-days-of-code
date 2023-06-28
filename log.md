@@ -51,3 +51,8 @@
 ### Day 9: June 26, 2023
 
 **Today's Progress**: Currently getting some help from the Scrimba discord on why half of my function is not behaving the way I intended. Doing a lot of code refactoring, but I really want this feature to work!
+
+
+### Day 10: June 27, 2023
+
+**Today's Progress**: Still can't get the reply to render the way I want, so I am going to take a break from this feature and start working on the food ordering solo project!
