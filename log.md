@@ -56,3 +56,8 @@
 ### Day 10: June 27, 2023
 
 **Today's Progress**: Still can't get the reply to render the way I want, so I am going to take a break from this feature and start working on the food ordering solo project!
+
+
+### Day 11: June 28, 2023
+
+**Today's Progress**: Started the HTML organization for a food ordering mobile site. Just getting the basic skeleton down before moving a lot of it to the JS to make it more dynamic with adding additional items. 
