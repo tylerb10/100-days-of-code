@@ -61,3 +61,8 @@
 ### Day 11: June 28, 2023
 
 **Today's Progress**: Started the HTML organization for a food ordering mobile site. Just getting the basic skeleton down before moving a lot of it to the JS to make it more dynamic with adding additional items. 
+
+
+### Day 12: June 29, 2023
+
+**Today's Progress**: Created an external data sheet and linked it to index.js for various menu items. Sticking with a restaurant theme for now, but might switch it up once the app is up and running.
