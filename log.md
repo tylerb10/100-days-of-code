@@ -66,3 +66,8 @@
 ### Day 12: June 29, 2023
 
 **Today's Progress**: Created an external data sheet and linked it to index.js for various menu items. Sticking with a restaurant theme for now, but might switch it up once the app is up and running.
+
+
+### Day 13: July 1, 2023
+
+**Today's Progress**: Working on creating a feed for the online ordering app, hopefully easy to update with new stuff as an array of objects. 
