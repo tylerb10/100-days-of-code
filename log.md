@@ -70,4 +70,9 @@
 
 ### Day 13: July 1, 2023
 
-**Today's Progress**: Working on creating a feed for the online ordering app, hopefully easy to update with new stuff as an array of objects. 
+**Today's Progress**: Working on creating a feed for the online ordering app, hopefully easy to update with new stuff as an array of objects.
+ 
+
+### Day 14: July 2, 2023
+
+**Today's Progress**: Spent time working on loops using forEach() and got my feed rendering correctly. Started to work with the CSS to make things look a little bit better, and I think this is my favorite part of projects.
