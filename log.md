@@ -76,3 +76,8 @@
 ### Day 14: July 2, 2023
 
 **Today's Progress**: Spent time working on loops using forEach() and got my feed rendering correctly. Started to work with the CSS to make things look a little bit better, and I think this is my favorite part of projects.
+
+
+### Day 15: July 3, 2023
+
+**Today's Progress**: More layout work using flexbox. Looking for stock images for the header as well, but am having a hard time sizing them correctly for the header element... 
