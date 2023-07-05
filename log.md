@@ -81,3 +81,8 @@
 ### Day 15: July 3, 2023
 
 **Today's Progress**: More layout work using flexbox. Looking for stock images for the header as well, but am having a hard time sizing them correctly for the header element... 
+
+
+### Day 16: July 4, 2023
+
+**Today's Progress**: Played around with some tools for making images more useful within a specific layout. I am really liking resizing.app
