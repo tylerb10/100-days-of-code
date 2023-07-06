@@ -86,3 +86,8 @@
 ### Day 16: July 4, 2023
 
 **Today's Progress**: Played around with some tools for making images more useful within a specific layout. I am really liking resizing.app
+
+
+### Day 17: July 5, 2023
+
+**Today's Progress**: Working on getting the "cart" to function in my restaurant ordering app. Getting the HTML sorted, then I need to figure out how to link the menu item that gets clicked on to render correctly in the cart section.
