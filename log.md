@@ -96,3 +96,8 @@
 ### Day 18: July 7, 2023
 
 **Today's Progress**: Spent some time going over data attributes and how I can use them in my ordering app. 
+
+
+### Day 19: July 8, 2023
+
+**Today's Progress**: Writing functions to add clicked on menu items to a different array in my food ordering app. Also looking at how I want those to render in a new section below the menu after you add it to your order.
