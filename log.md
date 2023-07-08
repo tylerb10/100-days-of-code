@@ -91,3 +91,8 @@
 ### Day 17: July 5, 2023
 
 **Today's Progress**: Working on getting the "cart" to function in my restaurant ordering app. Getting the HTML sorted, then I need to figure out how to link the menu item that gets clicked on to render correctly in the cart section.
+
+
+### Day 18: July 7, 2023
+
+**Today's Progress**: Spent some time going over data attributes and how I can use them in my ordering app. 
