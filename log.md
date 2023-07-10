@@ -101,3 +101,8 @@
 ### Day 19: July 8, 2023
 
 **Today's Progress**: Writing functions to add clicked on menu items to a different array in my food ordering app. Also looking at how I want those to render in a new section below the menu after you add it to your order.
+
+
+### Day 20: July 9, 2023
+
+**Today's Progress**: Working once again on using datasets, and took a tangent learning more about arrow functions. 
