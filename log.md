@@ -106,3 +106,8 @@
 ### Day 20: July 9, 2023
 
 **Today's Progress**: Working once again on using datasets, and took a tangent learning more about arrow functions. 
+
+
+### Day 21 and 22: July 11-12, 2023
+
+**Today's Progress**: Going over more functions, and refactoring some code that isn't doing what I want it to (yet).
