@@ -111,3 +111,8 @@
 ### Day 21 and 22: July 11-12, 2023
 
 **Today's Progress**: Going over more functions, and refactoring some code that isn't doing what I want it to (yet).
+
+
+### Day 23: July 13, 2023
+
+**Today's Progress**: Finally figured out why my menu list wasn't rendering (wasn't returning anything within the function). Now I am working on getting a new list to render at the bottom of the page like a "cart" of sorts. Have the HTML backbone there, but it isn't rendering on the button click yet.
