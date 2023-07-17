@@ -116,3 +116,8 @@
 ### Day 23: July 13, 2023
 
 **Today's Progress**: Finally figured out why my menu list wasn't rendering (wasn't returning anything within the function). Now I am working on getting a new list to render at the bottom of the page like a "cart" of sorts. Have the HTML backbone there, but it isn't rendering on the button click yet.
+
+
+### Day 24: July 16, 2023
+
+**Today's Progress**: Finished up the HTML for the order list, and got it rendering after clicking an "add" button on the menu. Used flexbox to align everything properly, and next need to work on the "remove" button on the order list to delete something from that array.
