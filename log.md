@@ -121,3 +121,8 @@
 ### Day 24: July 16, 2023
 
 **Today's Progress**: Finished up the HTML for the order list, and got it rendering after clicking an "add" button on the menu. Used flexbox to align everything properly, and next need to work on the "remove" button on the order list to delete something from that array.
+
+
+### Day 25: July 17
+
+**Today's Progress**: Went down the rabbit hole making my html prettier! Also adjusting some padding and margins to make text easier to read. 
