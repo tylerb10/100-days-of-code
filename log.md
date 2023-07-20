@@ -126,3 +126,8 @@
 ### Day 25: July 17
 
 **Today's Progress**: Went down the rabbit hole making my html prettier! Also adjusting some padding and margins to make text easier to read. 
+
+
+### Day 26: July 19
+
+**Today's Progress**: Added the header and footer aspects to the order list after a button click so that it all comes up appropriately. Did some styling for the buttons in the CSS as well. Need to figure out what breaks when you add a 2nd item to the order though!
