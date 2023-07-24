@@ -131,3 +131,8 @@
 ### Day 26: July 19
 
 **Today's Progress**: Added the header and footer aspects to the order list after a button click so that it all comes up appropriately. Did some styling for the buttons in the CSS as well. Need to figure out what breaks when you add a 2nd item to the order though!
+
+
+### Day 27 and 28: July 21-22
+
+**Today's Progress**: More styling for the cart div, and still working through issues with the new array that contains order items. 
